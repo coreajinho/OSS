@@ -1,14 +1,5 @@
-# This is an <h1> tag
+# I'm Yoo Jinho
+## This is my Open Source Software repository
 
-*This text will be italic*
-
-_This will also be italic_
-
-
-
-**This text will be bold**
-
-__This will also be bold__
-
-
+_I'm studying about **Computer Science**_
 
