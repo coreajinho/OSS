@@ -1,5 +1,1 @@
-# I'm Yoo Jinho
-## This is my Open Source Software repository
-
-_I'm studying about **Computer Science**_
-
+## 롤 전적검색 및 토론 기능을 지원하는 웹 서비스입니다.
